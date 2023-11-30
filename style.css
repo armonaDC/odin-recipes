@@ -12,6 +12,11 @@ a:visited{
     color: #a65ed7;
 }
 
+a:active{
+    color:yellow;
+    text-decoration: wavy underline overline;
+}
+
 .image.home{
     height: auto;
     width: 750px;
