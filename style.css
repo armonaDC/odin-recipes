@@ -28,11 +28,6 @@ div.home{ /*div AND home class*/
     justify-content: center;
 }
 
-div.panini{
-    display: flex;
-    justify-content: center;
-}
-
 .image.home{ /*image class AND home class*/
     height: auto;
     width: 750px;
